@@ -1,2 +1,2 @@
 # webdev_lab1
-First lab.
+Lab 1.
